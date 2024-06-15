@@ -1,4 +1,4 @@
-# This is a SSR news pages Demo
+# Next 新闻列表 SSR
 
 ## Getting Started
 
