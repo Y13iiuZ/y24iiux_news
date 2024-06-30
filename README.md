@@ -1,5 +1,7 @@
 # Next 新闻列表 SSR
 
+- 服务端渲染新闻列表
+
 ## Getting Started
 
 ```bash
